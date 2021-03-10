@@ -14,7 +14,7 @@ import javafx.stage.Stage;
 import javafx.stage.WindowEvent;
 
 /**
- * this is the gui for the software
+ * this is the GUI for the software
  * 
  * @author Shai Siso
  * @version March 2021

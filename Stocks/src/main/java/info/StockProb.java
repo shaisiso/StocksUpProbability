@@ -6,7 +6,14 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-
+/**
+ * this class is for the methods that finds from web api the following details:
+ * shares float,change in price,volume that was traded
+ * the calculation for the table are also executed here
+ * those are static method that are called from the GUI form
+ * @author Shai Siso
+ * @version March 2021
+ */
 public class StockProb{
 	public static float percents[] = new float[2];
 

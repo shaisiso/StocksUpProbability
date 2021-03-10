@@ -1,6 +1,10 @@
 package info;
 
-
+/**
+ * this class is to get the information from investing.com in parallel to the main thread that search other information
+ * @author Shai Siso
+ *
+ */
 public class MyThread extends Thread {
 
 	private String stockSymbol;
